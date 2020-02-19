@@ -1,3 +1,4 @@
+//Van Joseph P. Cabuga
 function check(){
 				var inputstr1 = document.getElementById("form1").value;
 				var inputstr = inputstr1.toUpperCase();
